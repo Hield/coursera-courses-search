@@ -1,5 +1,6 @@
 == README
 
 * This is my first web application using Ruby on Rails
+* You can check it out at https://first-app-search-coursera.herokuapp.com/
 * The application is used to search study courses on Coursera
 * You can change the search term by adding "?looking_for='search_term'" to the end of the URL
